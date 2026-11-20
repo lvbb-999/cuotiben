@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">错题本</string>
+    <string name="camera_permission_title">需要相机权限</string>
+    <string name="camera_permission_desc">使用相机拍下错题，拍完自动识别并框选题目。</string>
+</resources>
